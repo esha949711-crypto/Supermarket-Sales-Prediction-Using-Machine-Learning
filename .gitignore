@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.env
+.ipynb_checkpoints/
+.DS_Store
+models/*.joblib
+reports/figures/*.png
+reports/metrics/*.json

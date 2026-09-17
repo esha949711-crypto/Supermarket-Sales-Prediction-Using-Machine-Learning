@@ -1,0 +1,17 @@
+{
+  "target": "Total",
+  "test_size": 0.2,
+  "random_state": 42,
+  "models": {
+    "linear_regression": {
+      "mae": 59.4727,
+      "rmse": 79.8689,
+      "r2": 0.902
+    },
+    "random_forest": {
+      "mae": 7.0702,
+      "rmse": 10.5987,
+      "r2": 0.9983
+    }
+  }
+}
